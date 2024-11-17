@@ -27,7 +27,8 @@ public class Ex7_17 {
             System.out.println(names[i] + ": " + scores[i]);
         }
     }
-    /*This solution is exactly like a bubble sort */
+    /**This solution is exactly like a bubble sort
+    * whenever adjacent values are swapped we swap String array as well */
     public static void sortDecreasingOrder(String[] name, int[] score) {
         for (int i = 0; i < score.length - 1; i++) {
             for (int j = 0; j < score.length - i - 1; j++) {

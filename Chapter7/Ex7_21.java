@@ -1,19 +1,14 @@
 package Chapter7;
 
-import java.util.Scanner;
-
 public class Ex7_21 {
-    public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
+    public static void main(String[] args) throws NumberFormatException {
         int sum = 0;
-
-        System.out.println("Enter numbers to sum up (end with 0): ");
-        while (true) {
-            sum += input.nextInt();
-            if (input.nextInt() == 0) {
-                break;
-            }
+        for (int i = 0; i < args.length; i++) {
+            int number = Integer.parseInt(args[i]);
+            sum += number;
         }
-        System.out.println("sum is " + sum);
+        System.out.println("Sum is: "  + sum);
     }
+    /* Note in order to run you need to compile commandline  java Chapter7.Ex7_21 10 20 30
+    * dont forget to javac first*/
 }

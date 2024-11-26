@@ -18,7 +18,7 @@ public class Ex8_3 {
             correctCountOfStudents[i][0] = i;
             correctCountOfStudents[i][1] = correctAnswerCount(answers,keys,i);
         }
-        increasingOrderbubbleSort(correctCountOfStudents);
+        increasingOrderBubbleSort(correctCountOfStudents);
         for (int[] result : correctCountOfStudents) {
             System.out.println("Student " + result[0] + " got " + result[1] + " correct answers.");
         }
@@ -26,7 +26,7 @@ public class Ex8_3 {
 
 
     }
-    public static void increasingOrderbubbleSort(int[][] num) {
+    public static void increasingOrderBubbleSort(int[][] num) {
         for (int i = 0; i < num.length - 1; i++) {
             for (int j = 0; j < num.length - i - 1; j++) {
                 if (num[j][1] < num[j + 1][1]) {

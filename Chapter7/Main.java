@@ -6,7 +6,7 @@ import java.util.Collection;
 public class Main {
     public static void main(String[] args) {
         int n = 5;
-        ThingToPrint printt = () -> {
+        ThingToPrint print = () -> {
             System.out.println(n);
         };
     }

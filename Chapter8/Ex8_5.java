@@ -1,5 +1,7 @@
 package Chapter8;
 
+import java.util.Stack;
+
 public class Ex8_5 {
     public static void main(String[] args) {
         double[][] a = {{1,2,3},{4,5,6,},{2,3,4}};
@@ -22,4 +24,5 @@ public class Ex8_5 {
         }
         return a;
     }
+
 }

@@ -27,5 +27,26 @@ To run a solution, you will need a Java development environment such as [Eclipse
 javac ExerciseX.java  # Compile the Java file
 java ExerciseX        # Run the compiled program
 ```
+## Running with Maven
+
+This project is also configured as a Maven project so you can build and run exercises from the command line. [web:43]
+
+First, build the project:
+```shell
+mvn clean package
+```
+
+Then run a specific exercise using the Maven exec plugin.  
+For example, for Chapter 1, Exercise 1 (`chapter1.Ex1`):
+
+```shell
+mvn exec:java -Dexec.mainClass="chapter1.Ex1"
+```
+For Chapter 1, Exercise 2 (`chapter1.Ex2`):
+
+```shell
+mvn exec:java -Dexec.mainClass="chapter1.Ex1"
+```
+Change the class name (`Ex1`, `Ex2`, `Ex3`, …) according to the exercise you want to run.
 ## Solutions
 Feel free to explore the solutions by navigating to the specific chapter and exercise you're interested in. You can view the source code and explanations to gain insights into how each problem is solved.

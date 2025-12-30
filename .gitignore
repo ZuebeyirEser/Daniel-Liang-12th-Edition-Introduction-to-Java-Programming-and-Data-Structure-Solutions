@@ -1,4 +1,16 @@
 .DS_Store*
 .idea/
 
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+
+*.class
+*.jar
+*.war
+*.ear
+
+
+
 

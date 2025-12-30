@@ -62,8 +62,7 @@
                 <artifactId>exec-maven-plugin</artifactId>
                 <version>3.1.1</version>
                 <configuration>
-                    <!-- Set your main class here when needed -->
-                    <mainClass>chapter1.Exercise1_01</mainClass>
+					<mainClass>${exec.mainClass}</mainClass>
                 </configuration>
             </plugin>
         </plugins>

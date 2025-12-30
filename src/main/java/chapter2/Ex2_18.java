@@ -1,3 +1,5 @@
+package chapter2;
+
 public class Ex2_18 {
     /*(Print a table) Write a program that displays the following table. Cast 
     floating-point numbers into integers. 

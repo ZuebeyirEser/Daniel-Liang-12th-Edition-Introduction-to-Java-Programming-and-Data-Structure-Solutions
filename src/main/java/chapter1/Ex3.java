@@ -1,3 +1,5 @@
+package chapter1;
+
 public class Ex3 {
     /*Write a program data display java */
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package chapter1;
+
 public class Ex2{
     /* Write a program that displays Welcome to Java five times. */
     public static void main(String[] args) {

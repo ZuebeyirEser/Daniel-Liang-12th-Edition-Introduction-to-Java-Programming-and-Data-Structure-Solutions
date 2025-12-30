@@ -1,3 +1,5 @@
+package chapter2;
+
 import java.util.Scanner;
 public class Ex2_8 {
     /*Current time) Listing 2.7, ShowCurrentTime.java, gives a program that displays 

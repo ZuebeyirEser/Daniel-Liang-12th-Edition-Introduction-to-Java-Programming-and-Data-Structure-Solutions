@@ -1,3 +1,5 @@
+package chapter1;
+
 public class Ex8 {
     public static void main(String[] args) {
         /*Write a program that displays the area and

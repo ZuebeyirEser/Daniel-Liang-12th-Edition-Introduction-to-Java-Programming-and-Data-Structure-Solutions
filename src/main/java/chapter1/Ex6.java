@@ -1,3 +1,5 @@
+package chapter1;
+
 public class Ex6 {
     /*Write a program that displays the result of 1 + 2+ ...+9*/
     public static void main(String[] args) {

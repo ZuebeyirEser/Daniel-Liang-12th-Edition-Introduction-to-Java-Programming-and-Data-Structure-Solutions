@@ -1,3 +1,5 @@
+package chapter1;
+
 public class Ex4 {
     /* Create a table */
     public static void main(String[] args) {

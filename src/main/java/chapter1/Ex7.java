@@ -1,3 +1,5 @@
+package chapter1;
+
 public class Ex7 {
     public static void main(String[] args) {
         float sumpositive = 0;

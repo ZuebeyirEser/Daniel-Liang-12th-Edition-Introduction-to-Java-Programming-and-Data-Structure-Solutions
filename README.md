@@ -24,8 +24,8 @@ To access the solutions, simply navigate to the respective chapter's folder in t
 To run a solution, you will need a Java development environment such as [Eclipse](https://www.eclipse.org/downloads/) or [IntelliJ IDEA](https://www.jetbrains.com/idea/download/). You can also compile and run the Java files using the command line.
 
 ```shell
-javac ExerciseX.java  # Compile the Java file
-java ExerciseX        # Run the compiled program
+javac ExerciseXX_XX.java  # Compile the Java file
+java ExerciseXX_XX        # Run the compiled program
 ```
 ## Running with Maven
 

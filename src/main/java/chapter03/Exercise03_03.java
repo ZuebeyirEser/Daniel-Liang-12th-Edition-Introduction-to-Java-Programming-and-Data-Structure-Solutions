@@ -2,7 +2,7 @@ package Chapter3;
 
 import java.util.Scanner;
 
-public class Ex3_3 {
+public class Exercise03_03 {
     public static void main(String[] args) {
         /*
         (Algebra: solve 2 * 2 linear equations) A linear equation can be solved using Cramer’s rule given in Programming Exercise 1.13.

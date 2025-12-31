@@ -1,7 +1,7 @@
 package Chapter3;
 
 import java.util.Scanner;
-public class Ex3_12 {
+public class Exercise03_12 {
     public static void main(String[] args){
         /*(Palindrome integer) Write a program that prompts the user to enter a three-digit integer and determines
          whether it is a palindrome integer. An integer is palindrome if it reads the same from right to left and

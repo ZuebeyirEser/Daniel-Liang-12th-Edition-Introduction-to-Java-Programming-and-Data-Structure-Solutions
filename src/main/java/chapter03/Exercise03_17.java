@@ -1,7 +1,7 @@
 package Chapter3;
 
 import java.util.Scanner;
-public class Ex3_17 {
+public class Exercise03_17 {
     public static void main(String[] args) {
         /*(Game: scissor, rock, paper) Write a program that plays the popular scissor– rock–paper game.
          (A scissor can cut a paper, a rock can knock a scissor, and a paper can wrap a rock.)

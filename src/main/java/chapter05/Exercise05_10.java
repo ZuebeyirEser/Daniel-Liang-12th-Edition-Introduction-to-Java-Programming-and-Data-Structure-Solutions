@@ -1,6 +1,6 @@
 package Chapter5;
 
-public class Ex5_10 {
+public class Exercise05_10 {
     /*(Find numbers divisible by 5 and 6) Write a program that displays all the numbers
      from 100 to 1,000 (10 per line) that are divisible by 5 and 6.
      Numbers are separated by exactly one space.*/

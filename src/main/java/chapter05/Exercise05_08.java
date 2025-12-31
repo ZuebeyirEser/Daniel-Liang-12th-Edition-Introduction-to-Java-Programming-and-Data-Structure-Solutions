@@ -1,7 +1,7 @@
 package Chapter5;
 
 import java.util.Scanner;
-public class Ex5_8 {
+public class Exercise05_08 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

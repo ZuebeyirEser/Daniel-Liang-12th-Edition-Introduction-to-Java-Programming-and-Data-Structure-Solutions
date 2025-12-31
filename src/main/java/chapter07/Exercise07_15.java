@@ -3,7 +3,7 @@ package Chapter7;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Ex7_15 {
+public class Exercise07_15 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int[] array = new int[10];

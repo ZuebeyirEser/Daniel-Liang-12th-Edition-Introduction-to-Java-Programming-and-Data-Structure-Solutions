@@ -1,8 +1,8 @@
-package chapter2;
+package chapter02;
 
 import java.util.Scanner;
 
-public class Ex2_11 {
+public class Exercise02_11 {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

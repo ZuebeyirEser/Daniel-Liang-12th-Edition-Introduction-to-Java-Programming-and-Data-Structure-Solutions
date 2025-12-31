@@ -2,7 +2,7 @@ package Chapter6;
 
 import java.util.Scanner;
 
-public class Ex6_17 {
+public class Exercise06_17 {
 
     public static void printMatrix(int n) {
         for (int i = 0; i < n; i++) {

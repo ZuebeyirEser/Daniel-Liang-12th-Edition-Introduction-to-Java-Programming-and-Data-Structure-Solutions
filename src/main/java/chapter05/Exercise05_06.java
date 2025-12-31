@@ -1,6 +1,6 @@
 package Chapter5;
 
-public class Ex5_6 {
+public class Exercise05_06 {
     /*Write a program that displays the following two tables side by side:
     */
     public static void main(String[] args){

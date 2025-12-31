@@ -2,7 +2,7 @@ package Chapter6;
 
 import java.util.Scanner;
 
-public class Ex6_22 {
+public class Exercise06_22 {
 
     public static double sqrt(long n) {
         if (n < 0) {

@@ -1,6 +1,6 @@
 package Chapter6;
 
-public class Ex6_12 {
+public class Exercise06_12 {
     public static void printChars(char ch1, char ch2, int numberPerLine) {
         int count = 0;
         for (char ch = ch1; ch <= ch2; ch++) {

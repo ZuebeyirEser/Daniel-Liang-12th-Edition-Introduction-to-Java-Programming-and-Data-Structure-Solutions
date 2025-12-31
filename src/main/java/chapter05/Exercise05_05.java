@@ -1,6 +1,6 @@
 package Chapter5;
 
-public class Ex5_5 {
+public class Exercise05_05 {
     public static void main(String[] args) {
         /*(Conversion from kilograms to pounds and pounds to kilograms) Write a program that
          displays the following two tables side by side:*/

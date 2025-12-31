@@ -1,6 +1,6 @@
 package Chapter8;
 
-public class Ex8_3 {
+public class Exercise08_03 {
     public static void main(String[] args) {
         char[][] answers = {
                 {'A', 'B', 'A', 'C', 'C', 'D', 'E', 'E', 'A', 'D'},

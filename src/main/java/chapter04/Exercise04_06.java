@@ -1,6 +1,6 @@
 package Chapter4;
 
-public class Ex4_6 {
+public class Exercise04_06 {
     public static void main(String[] args){
 
         double a1 = Math.toRadians(Math.random() * 361);

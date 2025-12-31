@@ -1,8 +1,8 @@
-package chapter2;
+package chapter02;
 
 /*import java.util.Scanner;
 
-public class Ex2_22 {
+public class Exercise02_22 {
     /* (Financial application: monetary units) Rewrite Listing 2.10,
     ComputeChange.java, to fix the possible loss of accuracy when converting
     a double value to an int value. Enter the input as an integer whose last

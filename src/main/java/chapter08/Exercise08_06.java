@@ -2,7 +2,7 @@ package Chapter8;
 
 import java.util.Scanner;
 
-public class Ex8_6 {
+public class Exercise08_06 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         double[][] matrixFirst = new double[3][3];

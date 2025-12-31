@@ -1,6 +1,6 @@
 package Chapter5;
 
-public class Ex5_20 {
+public class Exercise05_20 {
     // display prime number 2 to 1000
     public static void main(String[] args) {
         int count = 0;

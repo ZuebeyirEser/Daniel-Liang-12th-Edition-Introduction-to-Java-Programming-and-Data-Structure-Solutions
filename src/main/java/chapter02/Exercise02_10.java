@@ -1,8 +1,8 @@
-package chapter2;
+package chapter02;
 
 import java.util.Scanner;
 
-public class Ex2_10 {
+public class Exercise02_10 {
     /*(Science: calculating energy) Write a program that calculates the energy needed 
 to heat water from an initial temperature to a final temperature. Your program 
 should prompt the user to enter the amount of water in kilograms and the initial 

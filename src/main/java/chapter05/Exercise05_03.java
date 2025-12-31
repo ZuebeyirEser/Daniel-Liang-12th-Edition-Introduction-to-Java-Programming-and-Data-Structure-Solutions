@@ -1,6 +1,6 @@
 package Chapter5;
 
-public class Ex5_3 {
+public class Exercise05_03 {
     /*Write a program that displays the follow-ing table (note 1 kilogram is 2.2 pounds
     * (note 1 mile is 1.609 kilometers)*/
     public static void main(String[] args){

@@ -1,6 +1,6 @@
 package Chapter7;
 
-public class Ex7_29 {
+public class Exercise07_29 {
     /*
     * Write a program that picks four cards from a deck of 52 cards and computes their sum.
     * An Ace, King, Queen, and Jack represent 1, 13, 12, and 11, respectively.

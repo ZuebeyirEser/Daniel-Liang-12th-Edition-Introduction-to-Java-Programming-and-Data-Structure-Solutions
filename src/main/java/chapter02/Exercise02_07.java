@@ -1,8 +1,8 @@
-package chapter2;
+package chapter02;
 
 import java.util.Scanner;
 
-public class Ex2_7 {
+public class Exercise02_07 {
     /*(Find the number of years) Write a program that prompts the user to enter the 
     minutes (e.g., 1 billion), and displays the maximum number of years and remaining days for the minutes. */
     public static void main(String[] args) {

@@ -2,7 +2,7 @@ package Chapter6;
 
 import java.util.Scanner;
 
-public class Ex6_39 {
+public class Exercise06_39 {
 
     public static boolean leftOfTheLine(double x0, double y0, double x1, double y1, double x2, double y2) {
         return (x1 - x0) * (y2 - y0) - (x2 - x0) * (y1 - y0) > 0;

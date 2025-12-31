@@ -1,7 +1,7 @@
 package Chapter3;
 
 import java.util.Scanner;
-public class Ex3_28 {
+public class Exercise03_28 {
     public static void main(String[] args){
         /* Write a program that prompts the user to enter the center x-, y-coordinates, width, and height of
         two rectangles and determines whether the second rectangle is inside the first or overlaps with the first,

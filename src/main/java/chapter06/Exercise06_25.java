@@ -2,7 +2,7 @@ package Chapter6;
 
 import java.util.Scanner;
 
-public class Ex6_25 {
+public class Exercise06_25 {
 
     public static String convertMillis(long millis) {
         long hours = millis / 3600000; // 1 hour = 3600000 milliseconds

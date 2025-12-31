@@ -1,6 +1,6 @@
 package Chapter6;
 
-public class Ex6_13 {
+public class Exercise06_13 {
     public static double sumSeries(int i) {
         double sum = 0.0;
         for (int j = 1; j <= i; j++) {

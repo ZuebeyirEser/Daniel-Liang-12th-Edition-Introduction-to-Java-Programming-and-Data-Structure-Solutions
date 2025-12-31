@@ -1,4 +1,4 @@
-package chapter1;
+package chapter01;
 
 public class Ex2{
     /* Write a program that displays Welcome to Java five times. */

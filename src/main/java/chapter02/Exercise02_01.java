@@ -1,8 +1,8 @@
-package chapter2;
+package chapter02;
 
 import java.util.Scanner;
 
-public class Ex2_1 {
+public class Exercise02_01 {
     /*(Convert Celsius to Fahrenheit) Write a program that reads a Celsius degree in a 
     double value from the console, then converts it to Fahrenheit, and displays the 
     result. The formula for the conversion is as follows:

@@ -1,6 +1,6 @@
 package Chapter6;
 
-public class Ex6_10 {
+public class Exercise06_10 {
     public static void main(String[] args) {
         int primeCount = 0;
         for (int i = 2; i < 10000; i++) {

@@ -1,7 +1,7 @@
 package Chapter4;
 
 import java.util.Scanner;
-public class Ex4_12 {
+public class Exercise04_12 {
     public static void main(String[] args){
         /*(Hex to binary) Write a program that prompts the user to enter a hex digit and
         displays its corresponding binary number in four digits. For example,

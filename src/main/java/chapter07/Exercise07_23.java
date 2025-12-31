@@ -13,7 +13,7 @@ package Chapter7;
 *
 * */
 
-public class Ex7_23 {
+public class Exercise07_23 {
     public static void main(String[] args) {
         
     }

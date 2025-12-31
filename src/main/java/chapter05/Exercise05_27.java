@@ -1,6 +1,6 @@
 package Chapter5;
 
-public class Ex5_27 {
+public class Exercise05_27 {
     public static void main(String[] args) {
         int counter = 0;
         for (int year = 101;year <= 2100;year++) {

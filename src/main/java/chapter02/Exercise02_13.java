@@ -1,8 +1,8 @@
-package chapter2;
+package chapter02;
 
 import java.util.Scanner;
 
-public class Ex2_13 {
+public class Exercise02_13 {
     /* (Financial application: compound value) Suppose you save $100 each month into 
     a savings account with an annual interest rate of 5%. Thus, the monthly interest 
     rate is 0.05/12 = 0.00417. After the first month, the value in the account becomes

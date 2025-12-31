@@ -2,7 +2,7 @@ package Chapter2;
 
 import java.util.Scanner;
 
-public class Ex2_17 {
+public class Exercise02_17 {
     /*How cold is it outside? The temperature alone is 
     not enough to provide the answer. Other factors including wind speed, relative humidity, and sunshine play important roles in determining coldness outside. In 2001, 
     the National Weather Service (NWS) implemented the new wind-chill temperature 

@@ -2,7 +2,7 @@ package Chapter6;
 
 import java.util.Scanner;
 
-public class Ex6_37 {
+public class Exercise06_37 {
 
     public static String format(int number, int width) {
         String numStr = Integer.toString(number);

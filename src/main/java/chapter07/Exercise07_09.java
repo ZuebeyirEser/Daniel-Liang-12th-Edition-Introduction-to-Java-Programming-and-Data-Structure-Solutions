@@ -2,7 +2,7 @@ package Chapter7;
 
 import java.util.Scanner;
 
-public class Ex7_9 {
+public class Exercise07_09 {
 
     // Method to find the smallest element in an array
     public static double min(double[] array) {

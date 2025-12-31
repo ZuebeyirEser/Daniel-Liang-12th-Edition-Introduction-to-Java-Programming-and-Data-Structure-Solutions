@@ -2,7 +2,7 @@ package Chapter6;
 
 import java.util.Scanner;
 
-public class Ex6_21 {
+public class Exercise06_21 {
 
     public static int getNumber(char letter) {
         letter = Character.toUpperCase(letter);

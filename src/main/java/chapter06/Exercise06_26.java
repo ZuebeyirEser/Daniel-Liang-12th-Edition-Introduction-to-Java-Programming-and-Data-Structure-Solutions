@@ -11,7 +11,7 @@ package Chapter6;
 *
 * */
 
-public class Ex6_26 {
+public class Exercise06_26 {
 
     private static boolean isPalindrome(int number) {
         int original = number;

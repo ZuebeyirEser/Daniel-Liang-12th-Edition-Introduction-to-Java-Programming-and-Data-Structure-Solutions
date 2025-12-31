@@ -1,6 +1,6 @@
 package Chapter6;
 
-public class Ex6_18 {
+public class Exercise06_18 {
     public static void main(String[] args) {
         System.out.println(isPasswordValid("1ddasddas"));
     }

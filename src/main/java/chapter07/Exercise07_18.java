@@ -2,7 +2,7 @@ package Chapter7;
 
 import java.util.Scanner;
 
-public class Ex7_18 {
+public class Exercise07_18 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int[] myArray = new int[10];

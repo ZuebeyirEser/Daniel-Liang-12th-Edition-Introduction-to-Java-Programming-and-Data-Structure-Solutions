@@ -2,7 +2,7 @@ package Chapter7;
 
 import java.util.Scanner;
 
-public class Ex7_25 {
+public class Exercise07_25 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Please enter the numbers");

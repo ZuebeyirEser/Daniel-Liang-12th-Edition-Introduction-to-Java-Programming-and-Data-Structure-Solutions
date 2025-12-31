@@ -20,7 +20,7 @@ package Chapter6;
  * The method returns the final sum of the digits.
  */
 
-public class Ex6_2 {
+public class Exercise06_02 {
     public static void main(String[] args) {
         System.out.println(sumDigits(9988));
     }

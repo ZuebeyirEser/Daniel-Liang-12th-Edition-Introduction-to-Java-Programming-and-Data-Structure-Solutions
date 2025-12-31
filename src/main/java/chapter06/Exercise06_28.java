@@ -1,6 +1,6 @@
 package Chapter6;
 
-public class Ex6_28 {
+public class Exercise06_28 {
     public static void main(String[] args) {
         // Print header
         System.out.printf("%-10s%s\n", "p", "2^p - 1");

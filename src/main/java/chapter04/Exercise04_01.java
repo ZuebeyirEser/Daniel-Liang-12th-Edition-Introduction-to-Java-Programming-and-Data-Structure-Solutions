@@ -1,7 +1,7 @@
 package Chapter4;
 
 import java.util.Scanner;
-public class Ex4_1 {
+public class Exercise04_01 {
     public static void main(String[] args){
         /*(Geometry: area of a pentagon) Write a program that prompts the user to enter the length from
         the center of a pentagon to a vertex and computes the area of the pentagon,*/

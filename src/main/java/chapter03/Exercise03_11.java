@@ -1,7 +1,7 @@
 package Chapter3;
 
 import java.util.Scanner;
-public class Ex3_11 {
+public class Exercise03_11 {
     public static void main(String[] args){
         /*(Find the number of days in a month) Write a program that prompts the user to enter the month and year and
          displays the number of days in the month. For example, if the user entered month 2 and year 2012,

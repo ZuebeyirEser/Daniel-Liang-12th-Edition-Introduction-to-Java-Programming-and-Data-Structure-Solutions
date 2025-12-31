@@ -1,7 +1,7 @@
 package Chapter3;
 
 import java.util.Scanner;
-public class Ex3_31 {
+public class Exercise03_31 {
     public static void main(String[] args){
         /*(Financials: currency exchange) Write a program that prompts the user to enter the exchange rate from
         currency in U.S. dollars to Chinese RMB. Prompt the user to enter 0 to convert from U.S. dollars to Chinese RMB

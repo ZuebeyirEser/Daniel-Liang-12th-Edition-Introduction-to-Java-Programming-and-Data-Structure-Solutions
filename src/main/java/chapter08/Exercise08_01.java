@@ -3,7 +3,7 @@ package Chapter8;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Ex8_1 {
+public class Exercise08_01 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         double[][] matrix = new double[3][4];

@@ -1,8 +1,8 @@
-package chapter2;
+package chapter02;
 
 import java.util.Scanner;
 
-public class Ex2_20 {
+public class Exercise02_20 {
     /*(Financial application: calculate interest) If you know the balance and the annual percentage interest rate,
     you can compute the interest on the next monthly payment using the following formula:
     interest = balance * (annualInterestRate/1200)

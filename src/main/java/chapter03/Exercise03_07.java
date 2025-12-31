@@ -1,7 +1,7 @@
 package Chapter3;
 
 import java.util.Scanner;
-public class Ex3_7 {
+public class Exercise03_07 {
     public static void main(String[] args){
         /*
         (Financial application: monetary units) Modify Listing 2.10, ComputeChange.java,

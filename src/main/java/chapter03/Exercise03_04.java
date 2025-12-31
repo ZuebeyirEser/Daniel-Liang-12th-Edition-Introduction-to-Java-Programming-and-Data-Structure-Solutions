@@ -1,6 +1,6 @@
 package Chapter3;
 
-public class Ex3_4 {
+public class Exercise03_04 {
     public static void main(String[] args) {
         /*
         *  (Random month) Write a program that randomly generates an integer between 1 and 12 and

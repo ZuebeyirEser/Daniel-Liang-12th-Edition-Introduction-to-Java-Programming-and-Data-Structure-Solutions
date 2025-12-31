@@ -1,6 +1,6 @@
 package Chapter3;
 import java.util.Scanner;
-public class Ex3_18 {
+public class Exercise03_18 {
     public static void main(String[] args){
         /*(Cost of shipping) A shipping company uses the following function to calculate
          the cost (in dollars) of shipping based on the weight of the package (in pounds).

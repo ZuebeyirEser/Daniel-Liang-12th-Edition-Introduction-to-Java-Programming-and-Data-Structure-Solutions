@@ -1,6 +1,6 @@
 package Chapter7;
 
-public class Ex7_10 {
+public class Exercise07_10 {
     public static void main(String[] args) {
         double[] myArray = {1, 2, 4.2, -3, 5};
         System.out.println(indexOfSmallestElement(myArray));

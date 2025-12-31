@@ -1,4 +1,4 @@
-package chapter1;
+package chapter01;
 
 public class Ex3 {
     /*Write a program data display java */

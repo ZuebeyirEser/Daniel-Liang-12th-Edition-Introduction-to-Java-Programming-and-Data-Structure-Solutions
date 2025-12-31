@@ -15,7 +15,7 @@ package Chapter6;
  *
  */
 
-public class Ex6_1 {
+public class Exercise06_01 {
     public static void main(String[] args) {
         for (int i = 1; i < 101;i++) {
             System.out.printf("%7d", getPentagonalNumber(i));

@@ -2,7 +2,7 @@ package Chapter7;
 
 import java.util.Arrays;
 
-public class Ex7_7 {
+public class Exercise07_07 {
     public static void main(String[] args) {
         int[] myArray = new int[100];
 

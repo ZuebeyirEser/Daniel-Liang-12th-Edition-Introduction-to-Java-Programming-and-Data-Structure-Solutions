@@ -3,7 +3,7 @@ package Chapter3;
 import java.util.Scanner;
 
 import java.util.Scanner;
-public class Ex3_20 {
+public class Exercise03_20 {
     public static void main(String[] args){
         /*(Science: wind-chill temperature) Programming Exercise 2.17 gives a formula to compute the wind-chill temperature.
          The formula is valid for temperatures in the range between - 58°F and 41°F and wind speed greater than or equal to 2.

@@ -1,4 +1,4 @@
-package chapter1;
+package chapter01;
 
 public class Ex10 {
     /*(Population projection) The U.S. Census Bureau projects population based on the

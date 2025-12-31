@@ -1,6 +1,6 @@
 package Chapter6;
 
-public class Ex6_29 {
+public class Exercise06_29 {
     public static boolean isPrime(int n) {
         if (n <= 1) return false;
         for (int i = 2; i <= Math.sqrt(n); i++) {

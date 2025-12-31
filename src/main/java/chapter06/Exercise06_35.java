@@ -2,7 +2,7 @@ package Chapter6;
 
 import java.util.Scanner;
 
-public class Ex6_35 {
+public class Exercise06_35 {
 
     // Method to calculate the area of a pentagon
     public static double area(double side) {

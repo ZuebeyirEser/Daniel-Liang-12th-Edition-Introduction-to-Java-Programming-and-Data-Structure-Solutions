@@ -1,7 +1,7 @@
 package Chapter3;
 
 import java.util.Scanner;
-public class Ex3_13 {
+public class Exercise03_13 {
     public static void main(String[] args){
         /*(Financial application: compute taxes) Listing 3.5, ComputeTax.java, gives the source code to compute taxes
          for single filers. Complete this program to compute taxes for all filing statuses.*/

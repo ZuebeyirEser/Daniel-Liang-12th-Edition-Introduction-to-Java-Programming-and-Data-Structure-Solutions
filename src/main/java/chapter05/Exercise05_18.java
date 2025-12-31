@@ -1,6 +1,6 @@
 package Chapter5;
 
-public class Ex5_18 {
+public class Exercise05_18 {
     public static void main(String[] args) {
         // Patern A
         //int n = 5;

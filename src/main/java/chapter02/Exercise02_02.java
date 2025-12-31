@@ -1,8 +1,8 @@
-package chapter2;
+package chapter02;
 
 import java.util.Scanner;
 
-public class Ex2_2 {
+public class Exercise02_02 {
     /*(Compute the volume of a cylinder) Write a program that reads in the radius 
     and length of a cylinder and computes the area and volume using the following 
     formulas:

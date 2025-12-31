@@ -1,6 +1,6 @@
 package Chapter6;
 
-public class Ex6_16 {
+public class Exercise06_16 {
 
     public static int numberOfDaysInAYear(int year) {
         if ((year % 4 == 0 && year % 100 != 0) || (year % 400 == 0)) {

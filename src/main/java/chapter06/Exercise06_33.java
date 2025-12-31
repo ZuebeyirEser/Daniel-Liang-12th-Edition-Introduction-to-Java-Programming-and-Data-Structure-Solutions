@@ -1,5 +1,5 @@
 package Chapter6;
-public class Ex6_33 {
+public class Exercise06_33 {
 
     public static void main(String[] args) {
         long currentTimeMillis = System.currentTimeMillis();

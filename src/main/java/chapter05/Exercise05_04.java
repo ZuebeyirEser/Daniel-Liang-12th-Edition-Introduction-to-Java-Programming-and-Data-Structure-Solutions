@@ -1,6 +1,6 @@
 package Chapter5;
 
-public class Ex5_4 {
+public class Exercise05_04 {
     /*(Conversion from miles to kilometers) Write a program that displays the table
     (note 1 mile is 1.609 kilometers):*/
     public static void main(String[] args){

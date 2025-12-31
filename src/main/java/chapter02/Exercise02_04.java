@@ -1,8 +1,8 @@
-package chapter2;
+package chapter02;
 
 import java.util.Scanner;
 
-public class Ex2_4 {
+public class Exercise02_04 {
     /*(Convert pounds into kilograms) Write a program that converts pounds into kilograms. The program prompts the user to enter a number in pounds, converts it 
     to kilograms, and displays the result. One pound is 0.454 kilogram. */
     public static void main(String[] args) {

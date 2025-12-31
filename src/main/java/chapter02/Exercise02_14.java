@@ -1,8 +1,8 @@
-package chapter2;
+package chapter02;
 
 import java.util.Scanner;
 
-public class Ex2_14 {
+public class Exercise02_14 {
     /*(Health application: computing BMI) Body Mass Index (BMI) is a measure of 
     health on weight. It can be calculated by taking your weight in kilograms and dividing, by the square of your height in meters. Write a program that prompts the user to 
     enter a weight in pounds and height in inches and displays the BMI. Note one pound 

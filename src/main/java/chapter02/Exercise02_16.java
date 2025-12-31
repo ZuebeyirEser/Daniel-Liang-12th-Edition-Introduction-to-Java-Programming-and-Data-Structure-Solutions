@@ -1,8 +1,8 @@
-package chapter2;
+package chapter02;
 
 import java.util.Scanner;
 
-public class Ex2_16 {
+public class Exercise02_16 {
     /*Write a program that prompts the user to enter the 
     side of a hexagon and displays its area. The formula for computing the area of a 
     hexagon is

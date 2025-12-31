@@ -4,7 +4,7 @@ import java.util.Scanner;
 /*
 Write a program that prompts the user to enter a lowercase or uppercase letter and displays
 its corresponding number. For a nonletter input, display invalid input.*/
-public class Ex4_15 {
+public class Exercise04_15 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

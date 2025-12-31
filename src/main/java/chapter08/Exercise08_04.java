@@ -1,6 +1,6 @@
 package Chapter8;
 
-public class Ex8_4 {
+public class Exercise08_04 {
     public static void main(String[] args) {
         int[][] workingHours = {
                 {3, 5, 7, 2, 9, 9, 8},

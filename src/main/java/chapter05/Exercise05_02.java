@@ -1,7 +1,7 @@
 package Chapter5;
 
 import java.util.Scanner;
-public class Ex5_2 {
+public class Exercise05_02 {
     /*(Repeat additions) Listing 5.4, SubtractionQuizLoop.java, generates five random subtraction questions.
      Revise the program to generate 10 random addition questions for two integers between 1 and 15.
      Display the correct count and test time.*/

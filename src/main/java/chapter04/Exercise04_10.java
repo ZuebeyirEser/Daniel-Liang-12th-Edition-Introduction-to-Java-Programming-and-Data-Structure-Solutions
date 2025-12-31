@@ -1,7 +1,7 @@
 package Chapter4;
 
 import java.util.Scanner;
-public class Ex4_10 {
+public class Exercise04_10 {
     public static void main(String[] args){
         String set1 =
                 " 1 3 5 7\n" + " 9 11 13 15\n" + "17 19 21 23\n" + "25 27 29 31";

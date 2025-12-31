@@ -1,7 +1,7 @@
 package Chapter4;
 
 import java.util.Scanner;
-public class Ex4_7 {
+public class Exercise04_07 {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         System.out.println("Please enter the radius of the bounded circle ");

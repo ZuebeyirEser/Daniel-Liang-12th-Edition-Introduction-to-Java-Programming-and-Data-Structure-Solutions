@@ -1,6 +1,6 @@
 package Chapter6;
 
-public class Ex6_11 {
+public class Exercise06_11 {
     public static double computeCommission(double salesAmount) {
         double commission = 0;
 

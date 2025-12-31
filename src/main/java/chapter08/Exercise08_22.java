@@ -2,7 +2,7 @@ package Chapter8;
 
 import java.util.Random;
 
-public class Ex8_22 {
+public class Exercise08_22 {
     public static void main(String[] args) {
         int[][] matrix = generateMatrix();
 

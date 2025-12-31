@@ -2,7 +2,7 @@ package Chapter5;
 
 
 
-public class Ex5_26 {
+public class Exercise05_26 {
     public static void main(String[] args) {
         double sum = 1;
         for (int i = 1; i <= 20; i++) {

@@ -2,7 +2,7 @@ package Chapter5;
 
 import java.util.Scanner;
 
-public class Ex5_1 {
+public class Exercise05_01 {
     /*(Count positive and negative numbers and compute the average of numbers)
     *Write a program that reads an unspecified number of integers,
     *  determines how many positive and negative values have been read,

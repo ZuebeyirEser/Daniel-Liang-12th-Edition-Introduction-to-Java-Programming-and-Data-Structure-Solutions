@@ -1,6 +1,6 @@
 package Chapter5;
 
-public class Ex5_13 {
+public class Exercise05_13 {
     /*Find the largest n such that n^3 < 12,000*/
     public static void main(String[] args) {
         int n = 0;

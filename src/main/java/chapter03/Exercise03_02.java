@@ -1,7 +1,7 @@
 package Chapter3;
 
 import java.util.Scanner;
-public class Ex3_2 {
+public class Exercise03_02 {
     public static void main(String[] args) {
         /*(Game: add three numbers) The program in Listing 3.1, AdditionQuiz.java, generates
         two integers and prompts the user to enter the sum of these two integers.

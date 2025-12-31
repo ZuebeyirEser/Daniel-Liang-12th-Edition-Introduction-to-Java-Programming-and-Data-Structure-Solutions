@@ -1,6 +1,6 @@
 package Chapter7;
 
-public class Ex7_22 {
+public class Exercise07_22 {
     public static void main(String[] args) {
         String input = "";
         for (int i = 0; i < args.length;i++) {

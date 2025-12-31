@@ -1,6 +1,6 @@
 package Chapter3;
 
-public class Ex3_24 {
+public class Exercise03_24 {
     public static void main(String[] args){
         /*
         (Game: pick a card) Write a program that simulates picking a card from a deck of 52 cards.

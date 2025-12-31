@@ -1,4 +1,4 @@
-package chapter1;
+package chapter01;
 
 public class Ex6 {
     /*Write a program that displays the result of 1 + 2+ ...+9*/

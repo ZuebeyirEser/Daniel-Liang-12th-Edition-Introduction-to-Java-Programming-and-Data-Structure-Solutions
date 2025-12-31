@@ -1,8 +1,8 @@
-package chapter2;
+package chapter02;
 
 import java.util.Scanner;
 
-public class Ex2_21 {
+public class Exercise02_21 {
 /*(Financial application: calculate future investment value) Write a program that 
 reads in investment amount, annual interest rate, and number of years and displays
 the future investment value using the following formula:

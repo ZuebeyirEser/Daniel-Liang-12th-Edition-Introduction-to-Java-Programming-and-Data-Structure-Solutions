@@ -1,6 +1,6 @@
 package Chapter6;
 
-public class Ex6_15 {
+public class Exercise06_15 {
 
     public static void main(String[] args) {
         System.out.printf("%-10s%-10s%-10s%-10s%-10s\n", "Income", "Single", "Married", "Joint", "Head of");

@@ -1,7 +1,7 @@
 package Chapter5;
 
 import java.util.Scanner;
-public class Ex5_7 {
+public class Exercise05_07 {
     /*(Financial application: compute future tuition) Suppose the tuition for a university is
     $10,000 this year and increases 5% every year. In one year, the tuition will be $10,500.
     Write a program that displays the tuition in 10 years, and the total cost of four years’

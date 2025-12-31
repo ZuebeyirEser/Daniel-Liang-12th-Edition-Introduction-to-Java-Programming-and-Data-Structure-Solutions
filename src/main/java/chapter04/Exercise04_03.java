@@ -1,6 +1,6 @@
 package Chapter4;
 
-public class Ex4_3 {
+public class Exercise04_03 {
     public static void main(String[] args){
         //Atlanta
         double ax = 33.7489954;

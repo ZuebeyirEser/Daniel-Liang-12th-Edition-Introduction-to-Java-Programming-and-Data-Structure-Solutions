@@ -1,6 +1,6 @@
 package Chapter7;
 
-public class Ex7_13 {
+public class Exercise07_13 {
     public static void main(String[] args) {
         for (int i = 0; i < 45; i++) {
             System.out.printf("%4d", getRandom(1,100,4,8,95,93));

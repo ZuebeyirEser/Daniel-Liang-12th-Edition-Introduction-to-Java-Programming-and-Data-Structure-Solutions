@@ -2,7 +2,7 @@ package Chapter7;
 
 import java.util.Arrays;
 
-public class Ex7_12 {
+public class Exercise07_12 {
     public static void main(String[] args) {
         Integer[] myArray = {1,2,3,4,5,6,7};
         Integer[] myReversedArray = reverseArray(myArray);

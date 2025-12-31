@@ -2,7 +2,7 @@ package Chapter6;
 
 import java.util.Scanner;
 
-public class Ex6_20 {
+public class Exercise06_20 {
     public static int countLetters(String s) {
         int count = 0;
         for (int i = 0; i < s.length(); i++) {

@@ -1,6 +1,6 @@
 package Chapter6;
 
-public class Ex6_8 {
+public class Exercise06_08 {
     public static void main(String[] args) {
         System.out.printf("%20s %20s %10s %20s %20s%n", "Celsius", "Fahrenheit","|","Fahrenheit", "Celsius");
         for (double c = 40.0D, f = 104.0D; c>=31.0D && f>=87.8D; c--,f -= 1.8) {

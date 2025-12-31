@@ -1,6 +1,6 @@
 package Chapter6;
 
-public class Ex6_9 {
+public class Exercise06_09 {
     public static double footToMeter(double foot) {
         return 0.305 * foot;
     }

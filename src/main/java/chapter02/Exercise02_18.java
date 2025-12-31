@@ -1,6 +1,6 @@
-package chapter2;
+package chapter02;
 
-public class Ex2_18 {
+public class Exercise02_18 {
     /*(Print a table) Write a program that displays the following table. Cast 
     floating-point numbers into integers. 
     a b pow(a, b)

@@ -1,4 +1,4 @@
-package chapter1;
+package chapter01;
 
 public class Ex4 {
     /* Create a table */

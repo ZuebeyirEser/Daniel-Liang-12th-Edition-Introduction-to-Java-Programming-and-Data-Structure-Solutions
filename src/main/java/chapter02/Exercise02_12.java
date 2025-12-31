@@ -1,10 +1,10 @@
-package chapter2;
+package chapter02;
 
 import java.util.Scanner;
 
 import java.lang.Math;
 
-public class Ex2_12 {
+public class Exercise02_12 {
     /* (Physics: finding runway length) Given an airplane’s acceleration a and take-off 
     speed v, you can compute the minimum runway length needed for an airplane to 
     take off using the following formula: 

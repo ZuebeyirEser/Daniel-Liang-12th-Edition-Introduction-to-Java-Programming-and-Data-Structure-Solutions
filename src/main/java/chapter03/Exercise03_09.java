@@ -1,7 +1,7 @@
 package Chapter3;
 
 import java.util.Scanner;
-public class Ex3_9 {
+public class Exercise03_09 {
     public static void main(String[] args){
     /*(Business: check ISBN-10) An ISBN-10 (International Standard Book Number)
      consists of 10 digits: d1d2d3d4d5d6d7d8d9d10.

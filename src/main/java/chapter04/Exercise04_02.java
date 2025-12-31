@@ -1,7 +1,7 @@
 package Chapter4;
 
 import java.util.Scanner;
-public class Ex4_2 {
+public class Exercise04_02 {
     public static void main(String[] args){
         /*(Geometry: great circle distance) The great circle distance is the distance
         between two points on the surface of a sphere. Let (x1, y1) and (x2, y2) be the

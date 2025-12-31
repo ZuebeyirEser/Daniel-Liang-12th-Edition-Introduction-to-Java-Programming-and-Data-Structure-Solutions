@@ -1,6 +1,6 @@
 package Chapter7;
 
-public class Ex7_14 {
+public class Exercise07_14 {
     public static void main(String[] args) {
         System.out.println(gcd(420, 10,77));
     }

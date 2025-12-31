@@ -1,6 +1,6 @@
 package Chapter6;
 
-public class Ex6_27 {
+public class Exercise06_27 {
     public static void main(String[] args) {
         int count = 0;
         int number = 2;

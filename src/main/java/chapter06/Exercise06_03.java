@@ -1,6 +1,6 @@
 package Chapter6;
 
-public class Ex6_3 {
+public class Exercise06_03 {
     public static void main(String[] args) {
         // test
         System.out.println(isPalindrome(12345));

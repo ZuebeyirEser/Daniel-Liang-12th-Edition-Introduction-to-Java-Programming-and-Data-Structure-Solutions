@@ -4,7 +4,7 @@ package Chapter6;
 * Strategy: is swaping using array
 * */
 
-public class Ex6_5 {
+public class Exercise06_05 {
     public static void main(String[] args) {
         displaySortedNumber(5,3,11);
     }

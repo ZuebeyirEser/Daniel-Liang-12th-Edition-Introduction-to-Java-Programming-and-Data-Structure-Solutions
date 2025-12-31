@@ -1,6 +1,6 @@
 package Chapter6;
 
-public class Ex6_14 {
+public class Exercise06_14 {
     public static double estimatePi(int i) {
         double sum = 0.0;
         for (int j = 1; j <= i; j++) {

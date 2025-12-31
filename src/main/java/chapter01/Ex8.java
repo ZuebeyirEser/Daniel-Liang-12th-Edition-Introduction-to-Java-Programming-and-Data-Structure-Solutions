@@ -1,4 +1,4 @@
-package chapter1;
+package chapter01;
 
 public class Ex8 {
     public static void main(String[] args) {

@@ -1,8 +1,8 @@
-package chapter2;
+package chapter02;
 
 import java.util.Scanner;
 
-public class Ex2_9 {
+public class Exercise02_09 {
     /*(Physics: acceleration) Average acceleration is defined as the change of velocity 
 divided by the time taken to make the change, as given by the following formula:
 (v1-v0)/t 

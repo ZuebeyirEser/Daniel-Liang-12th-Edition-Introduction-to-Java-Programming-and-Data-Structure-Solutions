@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Ex7_5 {
+public class Exercise07_05 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int[] myArray = new int[10];

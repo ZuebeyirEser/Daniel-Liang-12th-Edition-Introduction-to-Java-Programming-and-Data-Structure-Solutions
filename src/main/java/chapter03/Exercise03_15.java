@@ -1,7 +1,7 @@
 package Chapter3;
 
 import java.util.Scanner;
-public class Ex3_15 {
+public class Exercise03_15 {
     public static void main(String[] args){
         /*(Game: lottery) Revise Listing 3.8, Lottery.java, to generate a lottery of a three- digit integer.
          The program prompts the user to enter a three-digit integer and

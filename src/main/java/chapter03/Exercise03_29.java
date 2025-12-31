@@ -2,7 +2,7 @@ package Chapter3;
 
 import java.util.Scanner;
 
-public class Ex3_29 {
+public class Exercise03_29 {
     public static void main(String[] args){
         /*(Geometry: two circles) Write a program that prompts the user to enter the center coordinates and
         radii of two circles and determines whether the second circle is inside the first or overlaps with the first,

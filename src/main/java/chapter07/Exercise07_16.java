@@ -3,7 +3,7 @@ package Chapter7;
 import java.util.Arrays;
 import java.util.Random;
 
-public class Ex7_16 {
+public class Exercise07_16 {
     public static void main(String[] args) {
         // Generate an array of 100,000 random integers
         int[] numbers = new int[100000];

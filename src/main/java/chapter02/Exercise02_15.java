@@ -1,8 +1,8 @@
-package chapter2;
+package chapter02;
 
 import java.util.Scanner;
 
-public class Ex2_15 {
+public class Exercise02_15 {
     /*Write a program that prompts the user to 
     enter two points (x1, y1) and (x2, y2) and displays their distance.  */
     public static void main(String[] args) {

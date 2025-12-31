@@ -2,7 +2,7 @@ package Chapter8;
 
 import java.util.Stack;
 
-public class Ex8_5 {
+public class Exercise08_05 {
     public static void main(String[] args) {
         double[][] a = {{1,2,3},{4,5,6,},{2,3,4}};
         double[][] b = {{1,21,31},{4,50,6,},{20,3,4}};

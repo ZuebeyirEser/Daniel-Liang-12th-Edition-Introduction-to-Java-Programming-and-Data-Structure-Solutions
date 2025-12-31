@@ -2,7 +2,7 @@ package Chapter6;
 
 import java.util.Scanner;
 
-public class Ex6_23 {
+public class Exercise06_23 {
 
     public static int count(String str, char a) {
         int count = 0;

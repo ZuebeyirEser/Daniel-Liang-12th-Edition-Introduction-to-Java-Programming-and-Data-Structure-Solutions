@@ -1,7 +1,7 @@
 package Chapter3;
 
 import java.util.Scanner;
-public class Ex3_30 {
+public class Exercise03_30 {
     public static void main(String[] args){
         /*(Current time) Revise Programming Exercise 2.8 to display the hour using a 12-hour clock.*/
         Scanner input = new Scanner(System.in);

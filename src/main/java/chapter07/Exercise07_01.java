@@ -2,7 +2,7 @@ package Chapter7;
 
 import java.util.Scanner;
 
-public class Ex7_1 {
+public class Exercise07_01 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Enet number of sutdent");

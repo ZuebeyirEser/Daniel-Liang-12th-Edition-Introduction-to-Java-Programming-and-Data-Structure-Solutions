@@ -2,7 +2,7 @@ package Chapter7;
 
 import java.util.Scanner;
 
-public class Ex7_17 {
+public class Exercise07_17 {
     /**
      * (Sort students) Write a program that prompts the user to enter the number of students,
      * the students’ names, and their scores and prints student names in

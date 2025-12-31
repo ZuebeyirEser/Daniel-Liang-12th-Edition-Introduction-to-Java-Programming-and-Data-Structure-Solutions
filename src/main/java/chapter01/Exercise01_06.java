@@ -1,6 +1,6 @@
 package chapter01;
 
-public class Ex6 {
+public class Exercise01_06 {
     /*Write a program that displays the result of 1 + 2+ ...+9*/
     public static void main(String[] args) {
         int sum = 0;

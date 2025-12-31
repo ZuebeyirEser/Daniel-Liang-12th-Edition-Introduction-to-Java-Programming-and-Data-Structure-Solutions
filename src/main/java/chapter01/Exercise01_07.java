@@ -1,6 +1,6 @@
 package chapter01;
 
-public class Ex7 {
+public class Exercise01_07 {
     public static void main(String[] args) {
         float sumpositive = 0;
         float sumnegative = 0;

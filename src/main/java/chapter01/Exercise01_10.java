@@ -1,6 +1,6 @@
 package chapter01;
 
-public class Ex10 {
+public class Exercise01_10 {
     /*(Population projection) The U.S. Census Bureau projects population based on the
     following assumptions:
         ■ One birth every 7 seconds

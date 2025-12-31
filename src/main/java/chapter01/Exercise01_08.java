@@ -1,6 +1,6 @@
 package chapter01;
 
-public class Ex8 {
+public class Exercise01_08 {
     public static void main(String[] args) {
         /*Write a program that displays the area and
         perimeter of a circle that has a radius of 5.5 using the following formula:

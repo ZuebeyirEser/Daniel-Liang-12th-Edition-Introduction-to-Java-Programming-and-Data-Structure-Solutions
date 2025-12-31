@@ -1,6 +1,6 @@
 package chapter01;
 
-public class Ex3 {
+public class Exercise01_03 {
     /*Write a program data display java */
     public static void main(String[] args) {
         System.out.println("    J" + "   A   " + "V     V " + " A" );

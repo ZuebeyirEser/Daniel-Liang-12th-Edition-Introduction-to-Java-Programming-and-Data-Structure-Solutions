@@ -1,6 +1,6 @@
 package chapter01;
 
-public class Ex4 {
+public class Exercise01_04 {
     /* Create a table */
     public static void main(String[] args) {
         System.out.println("a" + "   a^2" + "   a^3");

@@ -45,7 +45,7 @@ mvn exec:java -Dexec.mainClass="chapter01.Exercise01"
 For Chapter 1, Exercise 2 (`chapter1.Exercise01_02`):
 
 ```shell
-mvn exec:java -Dexec.mainClass="chapter1.Ex1"
+mvn exec:java -Dexec.mainClass="chapter01.Exercise01_02"
 ```
 Change the class name (`Exercise01_01`, `Exercise05_22`, `Exercise09_42`, …) according to the exercise you want to run. Note that number before the  `_`represent the chapter number and after the `_`represents the exercise number
 ## Solutions
